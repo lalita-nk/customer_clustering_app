@@ -2,6 +2,7 @@
 
 เว็บแอปสำหรับสอน/สาธิตการทำ Customer Segmentation ด้วย K-Means
 พัฒนาต่อจากไฟล์ `Customer Clustering.ipynb` (Google Colab)
+สามารถทดลองใช้งานได้ที่ https://tni-clustering-app.streamlit.app/
 
 ## โครงสร้างโฟลเดอร์
 
